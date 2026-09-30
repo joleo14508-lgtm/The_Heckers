@@ -1,0 +1,6 @@
+{
+  "name": "Agrigrade",
+  "description": "AI-Powered Onion Quality Assessment & Grading System for procurement centers with computer vision inspection, defect detection, and QR verification.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
